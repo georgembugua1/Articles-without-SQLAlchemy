@@ -1,0 +1,4 @@
+articles.db
+__pycache__/
+env/
+*.pyc
